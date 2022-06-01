@@ -1,1 +1,22 @@
-# heart-disease-probability-prediction
+<h1 style='text-align:center'>Predicting the probability of heart disease: A study based on personal keys<h1>
+
+## Table of Contents
+* [Introduction](#chapter1)
+    * [Where is this data set coming from?](#section_1_1)
+    * [Dataset Link](#section_1_2)
+* [Objective](#chapter2)
+* [Import Libraries & Data Collection](#chapter3)
+* [Split Data](#chapter4)    
+* [Data Exploration](#chapter5)    
+    * [Missing Data](#section_5_1)
+    * [Explanation of column name](#section_5_2)
+    * [Numerical Features Analysis](#section_5_3)
+    * [Categorical Features Analysis](#section_5_4)
+* [Data Preparation](#chapter6)    
+    * [Remove Outliers](#section_6_1)
+    * [Transform Numerical Data](#section_6_2)
+    * [Transform Categorical Data](#section_6_3)
+* [Model Train & Select](#chapter7)                    
+    * [Cross-Validation on Selected model](#section_8_1)
+    * [Tune Hyperparameters for Model](#section_8_2)
+* [Model Save](#chapter9)                
